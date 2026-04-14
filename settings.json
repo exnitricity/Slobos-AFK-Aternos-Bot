@@ -8,7 +8,7 @@
   "server": {
     "ip": "mcsmp10j.aternos.me",
     "port":"34011" ,
-    "version": "",
+    "version": "1.12.2",
     "try-creative": false
   },
   "position": {
