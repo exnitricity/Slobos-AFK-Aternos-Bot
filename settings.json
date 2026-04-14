@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mcsmp10j.aternos.me",
+    "ip": "rattail.aternos.host:34011",
     "port":"34011" ,
     "version": "1.12.2",
     "try-creative": false
